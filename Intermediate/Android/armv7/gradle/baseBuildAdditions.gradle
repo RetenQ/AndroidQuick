@@ -1,0 +1,9 @@
+			allprojects {
+			repositories {
+			repositories {
+			flatDir {
+dirs 'F:/UE4/UnrealEngine/Engine/Source/ThirdParty/GoogleGameSDK/gamesdk/aar'
+			}
+			}
+			}
+			}
